@@ -1,5 +1,8 @@
 [
   {
+    "MASTER_STRING": {
+      "MASTER_STRING": "https://www.remove.bg/"
+    },
     "STRING_ONE": {
       "STRING_ONE": "navbar navbar-expand-lg navbar-light fixed-top d-none-mobile-app"
     },
