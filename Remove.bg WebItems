@@ -7,10 +7,10 @@
       "STRING_ONE": "navbar navbar-expand-lg navbar-light fixed-top d-none-mobile-app"
     },
     "STRING_TWO": {
-      "STRING_TWO": ""
+      "STRING_TWO": "upper pb-4 pt-2 py-md-5"
     },
     "STRING_THREE": {
-      "STRING_THREE": ""
+      "STRING_THREE": "lower py-5 text-center"
     },
     "STRING_FOUR": {
       "IMAGE_FOUR": ""
