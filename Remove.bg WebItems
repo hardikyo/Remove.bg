@@ -13,7 +13,7 @@
       "STRING_THREE": "lower py-5 text-center"
     },
     "STRING_FOUR": {
-      "IMAGE_FOUR": ""
+      "IMAGE_FOUR": "alert alert-warning small mt-2"
     },
     "STRING_FIVE": {
       "STRING_FIVE": ""
